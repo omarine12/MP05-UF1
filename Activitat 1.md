@@ -54,7 +54,7 @@ Demanar el nom d’usuari amb Java
 
 
 
-**Python**
+## **Python**
 
 Hola Mon amb Python
 
@@ -63,7 +63,7 @@ Hola Mon amb Python
 Demanar el nom d’usuari amb Python
 
 
-**C++** 
+## **C++** 
 
 Hola mon amb C++
 
@@ -73,7 +73,7 @@ Demanar nom d’usuari amb C++
 
 
 
-**C#**
+## **C#**
 
 Hola mon amb C#
 
@@ -85,20 +85,20 @@ Demanar nom d’usuari amb C#
 
 ## INFOJOBS
 
-**JAVA**
+## **JAVA**
 Aquesta oferta de treball pots treballar amb el títol de cicle superior si tens almenys una experiencia de treball de 2 anys, es a sevilla i te que ser obligadament presencial, en general es cobra molt bé amb aquell llenguatge
 
 
 Aquest treball té la ventatja de que es pot treballar desde casa i no fa falta que vagi a la empresa per a treballar, necessites una experiencia mínima de 5 anys amb un molt bon sou.
 
-**PYTHON**
+## **PYTHON**
 Per a python he trobat moltes ofertes similar a les de java, però la majoria necessito ser programador senior i tindre 2 anys d'experiència amb el treball, en general tots els sou de programador estan molt ben pagats.
 
 
 
 
 
-**C++**
+## **C++**
 Aquest treball encara que necessites 2 anys d'experiència et permeten treballar remotament i només amb el títol secundaria obligatoria.
 
 
@@ -108,7 +108,7 @@ Aquesta és una de les poques ofertes amb només 1 any d'experiència mínim, la
 
 
 
-**C#**
+## **C#**
 Amb C# he trobat moltes ofertes de treball telemàtic amb un bon sou, al ser similar a java les ofertes son molt similars. 
 
 
