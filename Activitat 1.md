@@ -38,7 +38,10 @@ Un dels seus principals avantatges es que els programes tindran menys error perq
 
 El creador ja havia participat en el desenvolupament d'altres llenguatges com Turbo Pascal, Delphi i J++.
 
-Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantatges és que és més senzill d’utilitzar que c++ ja que c# intenta simplificar la sintaxis per a que sigui més logica, també al tindre suport amb altres plataformes les empreses prefereixen utilitzar aquest llenguatges abans que c++-
+Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantatges és que és més senzill d’utilitzar que c++ ja que c# intenta simplificar la sintaxis per a que sigui més logica, també al tindre suport amb altres plataformes les empreses prefereixen utilitzar aquest llenguatges abans que c++.
+
+
+##EXEMPLES DE CODI
 
 
 
