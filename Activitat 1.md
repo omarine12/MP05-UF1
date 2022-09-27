@@ -1,6 +1,6 @@
 ## Activitat de recerca de llenguatges de programació
 
-###### **Java:** Actualment es el 3 llenguatge més utilitzat i es va crear al 1996 per Sun Microsystems
+-**Java:** Actualment es el 3 llenguatge més utilitzat i es va crear al 1996 per Sun Microsystems
 
 Java ha sigut un llenguatge que ha servit de base per a molts llenguatges com per exemple C#, J#, Javascript, PHP o Python.
 
