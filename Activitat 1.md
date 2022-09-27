@@ -1,6 +1,7 @@
 ## Activitat de recerca de llenguatges de programació
 
--**Java:** Actualment es el 3 llenguatge més utilitzat i es va crear al 1996 per Sun Microsystems
+## **Java:** 
+Actualment es el 3 llenguatge més utilitzat i es va crear al 1996 per Sun Microsystems
 
 Java ha sigut un llenguatge que ha servit de base per a molts llenguatges com per exemple C#, J#, Javascript, PHP o Python.
 
@@ -8,7 +9,7 @@ Java es un llenguatge compilat a bytecode orientat a objectes i es imperatiu, la
 
 
 
-- **Python:** Python actualment es el llenguatge més utilitzat i es va crear al 1991 per van Rossum 
+## **Python:** Python actualment es el llenguatge més utilitzat i es va crear al 1991 per van Rossum 
 
 
 
