@@ -33,7 +33,9 @@ Un dels seus principals avantatges es que els programes tindran menys error perq
 
 
 
-## **C#:** Es el 5 llenguatge més utilitzat i es va crear a l'any 2000 per “” , el creador es va inspirar amb Java, C++, Eiffel, Modula-3 i Pascal, també ha sigut un dels que ha influït a D, F#, Java 5 o Vala.
+## **C#:** 
+
+Es el 5 llenguatge més utilitzat i es va crear a l'any 2000 per “” , el creador es va inspirar amb Java, C++, Eiffel, Modula-3 i Pascal, també ha sigut un dels que ha influït a D, F#, Java 5 o Vala.
 
 
 
