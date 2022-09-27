@@ -83,5 +83,50 @@ Demanar nom d’usuari amb C#
 
 
 
+## INFOJOBS
+
+**JAVA**
+Aquesta oferta de treball pots treballar amb el títol de cicle superior si tens almenys una experiencia de treball de 2 anys, es a sevilla i te que ser obligadament presencial, en general es cobra molt bé amb aquell llenguatge
+
+
+Aquest treball té la ventatja de que es pot treballar desde casa i no fa falta que vagi a la empresa per a treballar, necessites una experiencia mínima de 5 anys amb un molt bon sou.
+
+**PYTHON**
+Per a python he trobat moltes ofertes similar a les de java, però la majoria necessito ser programador senior i tindre 2 anys d'experiència amb el treball, en general tots els sou de programador estan molt ben pagats.
+
+
+
+
+
+**C++**
+Aquest treball encara que necessites 2 anys d'experiència et permeten treballar remotament i només amb el títol secundaria obligatoria.
+
+
+
+Aquesta és una de les poques ofertes amb només 1 any d'experiència mínim, la majoria d’ofertes que he trobat demanaven mínim 2 anys d'experiència i ser senior.
+
+
+
+
+**C#**
+Amb C# he trobat moltes ofertes de treball telemàtic amb un bon sou, al ser similar a java les ofertes son molt similars. 
+
+
+
+## WEBGRAFIA
+
+https://www.infojobs.net/
+
+https://www.tiobe.com/tiobe-index/
+
+https://github.com/
+
+https://www.youtube.com/watch?v=u8nDlhqLqw8
+
+https://odio-el-c-sharp.blogspot.com/2015/04/pedir-nombre-e-imprimirlo.html
+
+
+
+
 
 
