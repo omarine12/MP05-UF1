@@ -41,7 +41,46 @@ El creador ja havia participat en el desenvolupament d'altres llenguatges com Tu
 Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantatges és que és més senzill d’utilitzar que c++ ja que c# intenta simplificar la sintaxis per a que sigui més logica, també al tindre suport amb altres plataformes les empreses prefereixen utilitzar aquest llenguatges abans que c++.
 
 
-##EXEMPLES DE CODI
+## EXEMPLES DE CODI
+
+
+**Java**
+
+Hola Mon amb Java
+
+
+Demanar el nom d’usuari amb Java
+
+
+
+
+**Python**
+
+Hola Mon amb Python
+
+
+
+Demanar el nom d’usuari amb Python
+
+
+**C++** 
+
+Hola mon amb C++
+
+
+Demanar nom d’usuari amb C++
+
+
+
+
+**C#**
+
+Hola mon amb C#
+
+
+
+Demanar nom d’usuari amb C#
+
 
 
 
