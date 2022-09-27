@@ -9,7 +9,8 @@ Java es un llenguatge compilat a bytecode orientat a objectes i es imperatiu, la
 
 
 
-## **Python:** Python actualment es el llenguatge més utilitzat i es va crear al 1991 per van Rossum 
+## **Python:** 
+Python actualment es el llenguatge més utilitzat i es va crear al 1991 per van Rossum 
 
 
 
@@ -19,7 +20,8 @@ Es va inspirar en llenguatges com java o perl i ha influït a llenguatges com Ja
 
 
 
-- **C++:**  Aquest és el 4 llenguatge més utilitzat i es va crear al 1979 per bjarne Stroustrup 	
+## **C++:**  
+- Aquest és el 4 llenguatge més utilitzat i es va crear al 1979 per bjarne Stroustrup 	
 
 
 
@@ -31,7 +33,7 @@ Un dels seus principals avantatges es que els programes tindran menys error perq
 
 
 
-- **C#:** Es el 5 llenguatge més utilitzat i es va crear a l'any 2000 per “” , el creador es va inspirar amb Java, C++, Eiffel, Modula-3 i Pascal, també ha sigut un dels que ha influït a D, F#, Java 5 o Vala.
+## **C#:** Es el 5 llenguatge més utilitzat i es va crear a l'any 2000 per “” , el creador es va inspirar amb Java, C++, Eiffel, Modula-3 i Pascal, també ha sigut un dels que ha influït a D, F#, Java 5 o Vala.
 
 
 
