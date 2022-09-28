@@ -25,7 +25,7 @@ Java es un llenguatge compilat a bytecode orientat a objectes i es imperatiu, la
 **Desavantatge**
 - El rendiment es pot veure afectat
 - Requereix una gran quantitat de memòria
--
+
 
 
 ## **Python** 
