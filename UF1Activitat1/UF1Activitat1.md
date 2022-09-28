@@ -1,6 +1,7 @@
 ﻿# Activitat de recerca de llenguatges de programació
 
 **Java:** Actualment es el 3 llenguatge més utilitzat i es va crear al 1996 per Sun Microsystems,
+
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.001.png)
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.002.png)
@@ -13,7 +14,9 @@ Java es un llenguatge compilat a bytecode orientat a objectes i es imperatiu, la
 
 
 
-**Python:** Python actualment es el llenguatge més utilitzat i es va crear al 1991 per van Rossum ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.003.png)
+**Python:** Python actualment es el llenguatge més utilitzat i es va crear al 1991 per van Rossum 
+
+![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.003.png)
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.004.png)
 
