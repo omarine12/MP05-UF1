@@ -107,10 +107,10 @@ Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantat
 **Característiques:**
 - Imperatiu
 - Compilat
-- Orientat a components
+- Orientat a objectes
 -
 **Avantatges**
--
+- Multiplataforma
 -
 -
 
