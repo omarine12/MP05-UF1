@@ -79,7 +79,7 @@ Un dels seus principals avantatges es que els programes tindran menys error perq
 -
 **Avantatges**
 - Compatibilitat amb C
--
+- Multiplataforma
 -
 
 **Desavantatge**
