@@ -43,7 +43,15 @@ Es va inspirar en llenguatges com java o perl i ha influït a llenguatges com Ja
 - Interpretat
 -
 -
+**Ventatjes**
+-
+-
+-
 
+**Desavantatge**
+-
+-
+-
 
 
 
@@ -65,7 +73,15 @@ Un dels seus principals avantatges es que els programes tindran menys error perq
 - Compilat
 -
 -
+**Ventatjes**
+-
+-
+-
 
+**Desavantatge**
+-
+-
+-
 
 
 
@@ -88,7 +104,15 @@ Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantat
 - Compilat
 -
 -
+**Ventatjes**
+-
+-
+-
 
+**Desavantatge**
+-
+-
+-
 
 # EXEMPLES DE CODI
 
