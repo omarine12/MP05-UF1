@@ -107,7 +107,7 @@ Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantat
 - Imperatiu
 - Compilat
 - Orientat a objectes
--
+
 **Avantatges**
 - Multiplataforma
 - Mès fàcil que C++
