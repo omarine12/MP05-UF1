@@ -161,6 +161,3 @@ Amb C# he trobat moltes ofertes de treball telemàtic amb un bon sou, al ser sim
 
 <https://odio-el-c-sharp.blogspot.com/2015/04/pedir-nombre-e-imprimirlo.html>
 
-
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
-
