@@ -11,7 +11,7 @@ Java ha sigut un llenguatge que ha servit de base per a molts llenguatges com pe
 
 Java es un llenguatge compilat a bytecode orientat a objectes i es imperatiu, la seva sintaxis es pareguda a la de C o C++ pero te menys utilitats de baix nivell.
 
-**Característiques:**
+**Característiques**
 - Imperatiu
 - Compilat
 - Orientat a objectes
