@@ -13,17 +13,18 @@ Java es un llenguatge compilat a bytecode orientat a objectes i es imperatiu, la
 
 **Característiques**
 - Imperatiu
-- Compilat
+- Interpretat
 - Orientat a objectes
 
 **Avantatges**
--
--
--
+- Es simple
+- Orientat a objectes
+- Es multiplataforma
+- Es segur
 
 **Desavantatge**
--
--
+- El rendiment es pot veure afectat
+- Requereix una gran quantitat de memòria
 -
 
 
