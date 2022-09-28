@@ -47,7 +47,7 @@ Es va inspirar en llenguatges com java o perl i ha influït a llenguatges com Ja
 **Avantatges**
 - Fàcil d'utilitzar
 - Orientat a objectes
--
+- Multiplataforma
 
 **Desavantatge**
 -
