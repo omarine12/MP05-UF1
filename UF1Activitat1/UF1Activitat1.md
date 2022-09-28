@@ -162,5 +162,3 @@ Amb C# he trobat moltes ofertes de treball telemàtic amb un bon sou, al ser sim
 <https://odio-el-c-sharp.blogspot.com/2015/04/pedir-nombre-e-imprimirlo.html>
 
 
-function test() {
- console.log("notice the blank line before this function?");
