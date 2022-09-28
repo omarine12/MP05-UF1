@@ -45,6 +45,7 @@ Es va inspirar en llenguatges com java o perl i ha influït a llenguatges com Ja
 - Imperatiu
 - Interpretat
 - Orientat a objectes
+
 **Avantatges**
 - Fàcil d'utilitzar
 - Orientat a objectes
