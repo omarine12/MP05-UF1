@@ -123,7 +123,7 @@ Aquest treball té la ventatja de que es pot treballar desde casa i no fa falta 
 
 ## **PYTHON**
 
-Per a python he trobat moltes ofertes similar a les de java, però la majoria necessito ser programador senior i tindre 2 anys d'experiència amb el treball, en general tots els sou de programador estan molt ben pagats.
+Per a python he trobat moltes ofertes similar a les de java, però la majoria necessito ser programador senior i tindre 2 anys d'experiència amb el treball, en general tots els sou de programador estan molt ben pagats i en general aquest llenguatge s'utiliza amb l'ambit dels videojocs.
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.019.png)
 
