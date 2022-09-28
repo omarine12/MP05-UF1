@@ -83,8 +83,8 @@ Un dels seus principals avantatges es que els programes tindran menys error perq
 -
 
 **Desavantatge**
--
--
+- Traducció al llenguatge màquina complex
+- No es recomanable utilitzar-lo a l'apartat de diseny
 -
 
 
