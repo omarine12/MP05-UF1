@@ -1,4 +1,4 @@
-## Activitat de recerca de llenguatges de programació
+# Activitat de recerca de llenguatges de programació
 
 ## **Java:** 
 Actualment es el 3 llenguatge més utilitzat i es va crear al 1996 per Sun Microsystems
@@ -46,7 +46,7 @@ El creador ja havia participat en el desenvolupament d'altres llenguatges com Tu
 Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantatges és que és més senzill d’utilitzar que c++ ja que c# intenta simplificar la sintaxis per a que sigui més logica, també al tindre suport amb altres plataformes les empreses prefereixen utilitzar aquest llenguatges abans que c++.
 
 
-## EXEMPLES DE CODI
+# EXEMPLES DE CODI
 
 
 ## **Java**
@@ -88,7 +88,7 @@ Demanar nom d’usuari amb C#
 
 
 
-## INFOJOBS
+# INFOJOBS
 
 ## **JAVA**
 
@@ -119,7 +119,7 @@ Amb C# he trobat moltes ofertes de treball telemàtic amb un bon sou, al ser sim
 
 
 
-## WEBGRAFIA
+# WEBGRAFIA
 
 https://www.infojobs.net/
 
