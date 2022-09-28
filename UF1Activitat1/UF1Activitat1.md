@@ -80,12 +80,13 @@ Un dels seus principals avantatges es que els programes tindran menys error perq
 **Avantatges**
 - Compatibilitat amb C
 - Multiplataforma
--
+- Actualitzacions constants
+
 
 **Desavantatge**
 - Traducció al llenguatge màquina complex
 - No es recomanable utilitzar-lo a l'apartat de diseny
--
+
 
 
 
@@ -106,7 +107,7 @@ Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantat
 **Característiques:**
 - Imperatiu
 - Compilat
--
+- Orientat a components
 -
 **Avantatges**
 -
