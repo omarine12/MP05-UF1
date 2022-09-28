@@ -1,6 +1,7 @@
 ﻿# Activitat de recerca de llenguatges de programació
 
-**Java:** Actualment es el 3 llenguatge més utilitzat i es va crear al 1996 per Sun Microsystems,
+## **Java** 
+Actualment es el 3 llenguatge més utilitzat i es va crear al 1996 per Sun Microsystems,
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.001.png)
 
@@ -14,7 +15,8 @@ Java es un llenguatge compilat a bytecode orientat a objectes i es imperatiu, la
 
 
 
-**Python:** Python actualment es el llenguatge més utilitzat i es va crear al 1991 per van Rossum 
+## **Python** 
+Python actualment es el llenguatge més utilitzat i es va crear al 1991 per van Rossum 
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.003.png)
 
@@ -28,7 +30,8 @@ Es va inspirar en llenguatges com java o perl i ha influït a llenguatges com Ja
 
 
 
-**C++:**  Aquest és el 4 llenguatge més utilitzat i es va crear al 1979 per bjarne Stroustrup 	
+## **C++**  
+Aquest és el 4 llenguatge més utilitzat i es va crear al 1979 per bjarne Stroustrup 	
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.005.png)
 
@@ -43,7 +46,8 @@ Un dels seus principals avantatges es que els programes tindran menys error perq
 
 
 
-**C#:** Es el 5 llenguatge més utilitzat i es va crear a l'any 2000 per “” , el creador es va inspirar amb Java, C++, Eiffel, Modula-3 i Pascal, també ha sigut un dels que ha influït a D, F#, Java 5 o Vala.
+## **C#** 
+Es el 5 llenguatge més utilitzat i es va crear a l'any 2000 per “” , el creador es va inspirar amb Java, C++, Eiffel, Modula-3 i Pascal, també ha sigut un dels que ha influït a D, F#, Java 5 o Vala.
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.007.png)
 
@@ -58,7 +62,7 @@ Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantat
 
 # EXEMPLES DE CODI
 
-**Java**
+## **Java**
 
 Hola Mon amb Java
 
@@ -70,7 +74,7 @@ Demanar el nom d’usuari amb Java
 
 
 
-**Python**
+## **Python**
 
 Hola Mon amb Python
 
@@ -82,7 +86,7 @@ Demanar el nom d’usuari amb Python
 
 
 
-**C++** 
+## **C++** 
 
 Hola mon amb C++
 
@@ -95,7 +99,7 @@ Demanar nom d’usuari amb C++
 
 
 
-**C#**
+## **C#**
 
 Hola mon amb C#
 
@@ -107,7 +111,7 @@ Demanar nom d’usuari amb C#
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.016.png)
 # INFOJOBS
 
-**JAVA**
+## **JAVA**
 
 Aquesta oferta de treball pots treballar amb el títol de cicle superior si tens almenys una experiencia de treball de 2 anys, es a sevilla i te que ser obligadament presencial, en general es cobra molt bé amb aquell llenguatge
 
@@ -117,7 +121,7 @@ Aquest treball té la ventatja de que es pot treballar desde casa i no fa falta 
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.018.png)
 
-**PYTHON**
+## **PYTHON**
 
 Per a python he trobat moltes ofertes similar a les de java, però la majoria necessito ser programador senior i tindre 2 anys d'experiència amb el treball, en general tots els sou de programador estan molt ben pagats.
 
@@ -126,7 +130,7 @@ Per a python he trobat moltes ofertes similar a les de java, però la majoria ne
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.020.png)
 
 
-**C++**
+## **C++**
 
 Aquest treball encara que necessites 2 anys d'experiència et permeten treballar remotament i només amb el títol secundaria obligatoria.
 
@@ -138,7 +142,7 @@ Aquesta és una de les poques ofertes amb només 1 any d'experiència mínim, la
 
 
 
-**C#**
+## **C#**
 
 Amb C# he trobat moltes ofertes de treball telemàtic amb un bon sou, al ser similar a java les ofertes son molt similars. 
 
