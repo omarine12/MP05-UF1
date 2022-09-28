@@ -9,7 +9,7 @@ Actualment es el 3 llenguatge més utilitzat i es va crear al 1996 per Sun Micro
 
 Java ha sigut un llenguatge que ha servit de base per a molts llenguatges com per exemple C#, J#, Javascript, PHP o Python.
 
-Java es un llenguatge compilat a bytecode orientat a objectes i es imperatiu, la seva sintaxis es pareguda a la de C o C++ pero te menys utilitats de baix nivell.
+Java es un llenguatge a bytecode orientat a objectes i es imperatiu, la seva sintaxis es pareguda a la de C o C++ pero te menys utilitats de baix nivell.
 
 **Característiques**
 - Imperatiu
@@ -45,12 +45,11 @@ Es va inspirar en llenguatges com java o perl i ha influït a llenguatges com Ja
 - Imperatiu
 - Interpretat
 - Orientat a objectes
--
 **Avantatges**
 - Fàcil d'utilitzar
 - Orientat a objectes
 - Multiplataforma
-- Gran varietat de bibliotques.
+- Gran varietat de bibliotques
 
 **Desavantatge**
 - Lentitut
@@ -102,7 +101,7 @@ Es el 5 llenguatge més utilitzat i es va crear a l'any 2000 per Anders Hejlsber
 
 El creador ja havia participat en el desenvolupament d'altres llenguatges com Turbo Pascal, Delphi i J++.
 
-Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantatges és que és més senzill d’utilitzar que c++ ja que c# intenta simplificar la sintaxis per a que sigui més logica, també al tindre suport amb altres plataformes les empreses prefereixen utilitzar aquest llenguatges abans que c++-
+Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantatges és que és més senzill d’utilitzar que c++ ja que c# intenta simplificar la sintaxis per a que sigui més logica
 
 **Característiques:**
 - Imperatiu
@@ -111,13 +110,11 @@ Aquest llenguatge és imperatiu i orientat a objectes i una de les seves avantat
 -
 **Avantatges**
 - Multiplataforma
--
--
+- Mès fàcil que C++
 
 **Desavantatge**
--
--
--
+- Es complicat d'utilitzar
+- Tè mès requeriments minims que altres llenguatges
 
 # EXEMPLES DE CODI
 
