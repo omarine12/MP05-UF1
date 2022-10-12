@@ -12,8 +12,8 @@ Java ha sigut un llenguatge que ha servit de base per a molts llenguatges com pe
 Java es un llenguatge a bytecode orientat a objectes i es imperatiu, la seva sintaxis es pareguda a la de C o C++ pero te menys utilitats de baix nivell.
 
 **Característiques**
-- Imperatiu
-- Interpretat
+- Imperatiu i OO
+- Interpretat NO
 - Orientat a objectes
 
 **Avantatges**
@@ -37,9 +37,9 @@ Python actualment es el llenguatge més utilitzat i es va crear al 1991 per van 
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.004.png)
 
-Python es un sistema multiplataforma orientada a objectes, imperatiu i de codi obert, una de les seves avantatges és que és molt fàcil de llegir i escriure ja que té una gran similitud amb el llenguatge humà.
+Python es un llenguatge interpretat multiplataforma orientada a objectes, imperatiu i de codi obert, una de les seves avantatges és que és molt fàcil de llegir i escriure ja que té una gran similitud amb el llenguatge humà.
 
-Es va inspirar en llenguatges com java o perl i ha influït a llenguatges com JavaScript, Ruby o Go
+Es va inspirar en llenguatges com java (?Python és anterior a Java)  o perl i ha influït a llenguatges com JavaScript, Ruby o Go
 
 **Característiques:**
 - Imperatiu
@@ -67,7 +67,7 @@ Aquest és el 4 llenguatge més utilitzat i es va crear al 1979 per bjarne Strou
 
 ![](Aspose.Words.44940408-25a0-4fd7-80ab-5649e251cc77.006.png)
 
-Aquest és un llenguatge de programació estructurada i imperatiu, la última versió amb proves va ser al 2020 i es deia C++20.
+Aquest és un llenguatge de programació estructurada, imperatiu i OO, la última versió amb proves va ser al 2020 i es deia C++20.
 
 
 Un dels seus principals avantatges es que els programes tindran menys error perquè la sintaxis es mes estrica, també es molt ràpid i eficient a l’hora d’executar els programes 
