@@ -10,7 +10,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
   - **Resultat 1:**
 Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = 16-14+2=4
   - **Resultat 2:**
-
+Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = 16-14+2=4
   - **Resultat 3:**
 
 
