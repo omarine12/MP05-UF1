@@ -8,11 +8,11 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
   - ![image](https://user-images.githubusercontent.com/110727546/204655229-8c3f28d7-3d8b-4746-a55d-331f89da39d2.png)
 
   - **Resultat 1:**
-Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = 16-14+2=4
+Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **16-14+2=4**
   - **Resultat 2:**
-Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = 16-14+2=4
+Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **16-14+2=4**
   - **Resultat 3:**
-Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = 8-6+2=4
+Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **8-6+2=4**
 
 2. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
 
@@ -22,7 +22,7 @@ Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = 8-6+2=4
 ![image](https://user-images.githubusercontent.com/113585932/204743693-4989729b-cc61-4de5-a8ca-729abd0953e3.png)
 
   - **Resultat CC:**
-
+Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **8-7+2=3**
 3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
 
 ```
