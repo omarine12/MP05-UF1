@@ -15,6 +15,7 @@ Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = 16-14+2=
 Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = 8-6+2=4
 
 2. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
+
   - ![image](https://user-images.githubusercontent.com/110727546/204615125-363e5e6c-173b-4ec0-8c0b-cb97985ade06.png)
 
   - **Diagrama:**
