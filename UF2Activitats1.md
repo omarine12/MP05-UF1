@@ -52,7 +52,7 @@ public class proves {
 
 
   - **Resultat CC:**
-Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **13-10+2=7**
+Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **13-10+2=5**
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
 ```
