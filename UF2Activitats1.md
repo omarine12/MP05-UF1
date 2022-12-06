@@ -71,7 +71,9 @@ Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **13-10+
   - **Resultat CC:**
    Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **8-7+2=3**
   - **Resultat proves camins:**
-
+  Prova 1: Hora = 7
+  Prova 2: Hora = 16
+  Prova 3: Hora = 22
 5. Investiga sobre les proves de caixa negra:
 
   - Què són?
