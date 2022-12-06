@@ -65,7 +65,11 @@ Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **13-10+
     }
 ```
   - **Diagrama:**
+
+![image](https://user-images.githubusercontent.com/113585932/206011899-f8be8f3f-1086-4a14-9ba2-1155a5e10065.png)
+
   - **Resultat CC:**
+   Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2 = **8-7+2=3**
   - **Resultat proves camins:**
 
 5. Investiga sobre les proves de caixa negra:
