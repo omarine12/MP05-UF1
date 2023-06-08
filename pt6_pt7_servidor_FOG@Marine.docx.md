@@ -10,6 +10,7 @@ Despres descomprimeixo el paquet tar.gz
 ![Selecció_977](https://github.com/omarine12/MP05/assets/113585932/8e59bc74-b8bd-4750-8461-87d08f3cd7d1)
 
 Entro a la carpeta del fog i executo la instalacio
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/28f7d41f-6d3d-4a22-9642-6a3514691907)
 
 Aquest son les opcions i els parametres que he ficat a l’instalacio
