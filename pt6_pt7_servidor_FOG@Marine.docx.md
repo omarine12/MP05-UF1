@@ -180,9 +180,11 @@ Anem a l’apartat de **snaping** i creem un nou complement, amb un **nom i la m
 ![image](https://github.com/omarine12/MP05/assets/113585932/52edb2c8-312b-4284-9c75-948b70641de1)
 
 Desprès inicio un client windows amb xarxa, i selecciono l’opcio **Quick Registration and Inventory** per registtrar el client com a host
+![image](https://github.com/omarine12/MP05/assets/113585932/46bbd21d-9cca-422c-aff9-c69c613fb7c2)
 
 
 Entro a editar host i selecciono la casella per veure snapings que poden ser afegits, selecciono google chrome
+![image](https://github.com/omarine12/MP05/assets/113585932/722ef02e-736b-4fb7-80df-0648d781d2fa)
 
 Despres vaig a l’apartat de **host task i advanced**
 
