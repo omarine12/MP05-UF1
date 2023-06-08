@@ -14,25 +14,32 @@ Entro a la carpeta del fog i executo la instalacio
 ![image](https://github.com/omarine12/MP05/assets/113585932/28f7d41f-6d3d-4a22-9642-6a3514691907)
 
 Aquest son les opcions i els parametres que he ficat a l’instalacio
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/81bb98de-3970-4669-953e-843638bf394d)
 
 Per finalitzar l’instalacio, al navegador donarem clic al botó instalar
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/3dc9af6e-0116-42aa-b743-77b61fb8a995)
 
 Per entrar al fog tindre que utilitzar la ip de la maquina, aquestes son les credencials per a entrar
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/7a62b721-9da3-4a68-882a-68ddfc1cda2e)
 
 Fico la ip al navegador i entro
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/05175f97-79b9-43ee-a2bc-94d2d3c5e20c)
 
 Aquest es el menu principal del fog
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/9f68df2b-09cb-45c2-b5c6-9462391b7525)
 
 Deshabiliitem el proces system-resolved
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/292bfdc2-122e-4cbf-aa40-32c362041fb1)
 
 
 Aturem el proces i borrem l’arxiu resolv.conf i el tornem a crear amb el nameserver 8.8.8.8
+![image](https://github.com/omarine12/MP05/assets/113585932/fc456d08-20e9-4148-b67d-f4ed37f1c432)
 
 Instal·lem el dnsmasq per a direccionar els clients al nostre FOG
 ![image](https://github.com/omarine12/MP05/assets/113585932/a4754fce-3439-48d9-8f94-ef812c36d3f0)
