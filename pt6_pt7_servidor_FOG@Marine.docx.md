@@ -1,15 +1,6 @@
-﻿Administració de SistemesInformàtics en la Xarxa
+# Servidor d’Imatges
 
-Desenvolupamentd’Aplicacions Multiplataforma
-
-**M1** – Implantació de SistemesOperatius
-
-**UF3** – Implantació de ProgramariEspecífic
-
-
-**Servidor d’Imatges**
-
-1. Instal·lar i configurar un servidor FOG
+## 1. Instal·lar i configurar un servidor FOG
 
 Primer descarrego el fog desde la pàgina web
 
@@ -52,7 +43,7 @@ Fiquem els seguents parametres dins de l’arxiu /etc/dnsmasq/ltsp.conf
 Gurado els canvis i reinicio el dnsmasq
 
 
-1. Capturar des del client un Windows
+## 2. Capturar des del client un Windows
 
 Creem una imatge desde el fog i iniciem la maquina desde la xarxa, desprès registrem el host
 
@@ -65,7 +56,7 @@ A **image Managemet** podrem veure la imatge clonada correctament
 
 
 
-1. Capturar des del client un Ubuntu
+## 3. Capturar des del client un Ubuntu
 
 Primer instal·lo 2 aplicacions per a fer les comprovacions un cop finalitzat (**discord i krita**)
 
@@ -87,7 +78,7 @@ Si la tasca ha funcionat be la podrem guardar
 A **Imatge Management** es pot veure la imatge clonada
 
 
-1. Instal·lar imatge Windows
+## 4. Instal·lar imatge Windows
 
 Creem una maquina virtual sense cap sistema operatiu i entrem per xarxa, despres seleccionem l’opcio **Deploy Image**
 
@@ -104,7 +95,7 @@ Un cop finalitzat podem encendre la maquina i comrpovar que la imatge s’ha est
 
 
 
-1. Instal·lar imatge Ubuntu
+## 5. Instal·lar imatge Ubuntu
 
 Creo la maquina virtual **FOG Instalar Ubuntu** sense cap imatge i entro per xarxa, despres seleciono l’opcio deploy image
 
@@ -118,7 +109,7 @@ Tenim que esperar a que es desplegui l’imatge
 Un cop descarregada es pot veure com els 2 programes que he instalat anteriorment estan a l’imatge instalada, i a la maquina **FOG Instalar Ubuntu**
 
 
-1. Llençar un paquet per a que s’instal·li als clients
+## 6. Llençar un paquet per a que s’instal·li als clients
 
 Anem a l’apartat de **snaping** i creem un nou complement, amb un **nom i la msi de google chrome**
 
