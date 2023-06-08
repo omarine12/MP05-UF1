@@ -99,7 +99,12 @@ Guardo la iso amb el nom OriolDesates
 ![Selecció_1045](https://github.com/omarine12/MP05/assets/113585932/ccc59bfc-abd3-4e41-b0d6-30578219ba40)
 
 
-Prova que funcioni en una nova màquina virtual
+j.Prova que funcioni en una nova màquina virtual
+
+![Selecció_1053](https://github.com/omarine12/MP05/assets/113585932/c7dac6a5-9f59-4ed6-afbd-9d2f0310f0c9)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/85199fad-88b1-4a5d-a0ff-8f47db9d16ad)
+
 
 2.Realitza la instal·lació desatesa amb el pressed d'un SO Ubuntu. El concepte és el mateix, generar un arxiu de resposta, però enlloc del kickstart amb el pressed i desprès posar-lo dintre la iso.
 Cerca per internet un arxiu preseed.cfg i modifica’l
