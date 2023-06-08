@@ -1,247 +1,133 @@
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image4.png){width="12.354166666666666in"
-> height="7.721353893263342in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
+Recursos necessaris:
+-Màquina base amfitrió Ubuntu 14.04, Ubuntu 16.04...
+-Alguna .iso versió alternate o server DINTRE de la MV amfitrió
+-Instal·lació del isomaster
+Utilitzo la seguent comanda
 
-+-----------------------------------------------------------------------+
-| > **Instal·lació desatesa amb fitxer de resposta**                    |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+![Selecció_1024](https://github.com/omarine12/MP05/assets/113585932/1197a413-d6b8-478b-8a87-d80fb93534c4)
 
-> Per a fer una instal·lació desatesa amb Ubuntu existeixen dues
-> opcions, la primera és fer-ho amb el kickstart, la qual té l'avantatja
-> que és més senzilla d'utilitzar, però és menys completa. L'altra és
-> amb el preseed, és més complexa, però la configuració és molt més
-> extensa.
->
-> Recursos necessaris:
->
-> ● Màquina base amfitrió Ubuntu 14.04, Ubuntu 16.04\...
->
-> ● Alguna .iso versió alternate o server **DINTRE** de la MV amfitrió ●
-> Instal·lació del isomaster\
-> Utilitzo la seguent comanda
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image1.png){width="5.301388888888889in"
-> height="1.1569444444444446in"}
->
-> **\*\*\* Enlloc de l'isomaster es pot fer ús de rsync per a extreure
-> tot lo de la iso i desprès mkisofs per a tornar a generar-la**
->
-> 1\. Realitza la instal·lació desatesa amb el kickstart d\'un SO Ubuntu
-> a. Actualitza repositoris
 
-![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image2.png){width="7.270833333333333in"
-height="0.8222211286089239in"}
+*** Enlloc de l’isomaster es pot fer ús de rsync per a extreure tot lo de la iso i desprès mkisofs per a tornar a generar-la
 
-> b\. Instal·la system-config-kickstart
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image3.png){width="6.781943350831146in"
-> height="1.3430544619422573in"}
->
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image7.png){width="12.354166666666666in"
-> height="5.821718066491688in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
+Realitza la instal·lació desatesa amb el kickstart d'un SO Ubuntu
+Actualitza repositoris
 
-+-----------------------------------+-----------------------------------+
-| c\.                               | > Obre amb                        |
-|                                   | > system-config-kickstart i       |
-|                                   | > configura els paràmetre que     |
-|                                   | > creguis necessaris              |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+![Selecció_1025](https://github.com/omarine12/MP05/assets/113585932/cfae3da0-a5e0-4b7d-9ac5-763bf645b9d3)
 
-> He modificat el idioma default a catala, el teclat a l'español i la
-> hora
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image5.png){width="3.9583333333333335in"
-> height="3.0625in"}
->
-> Marco l'opcio utilitzar GRUP password i encriptar
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image6.png){width="3.8541666666666665in"
-> height="3.0305555555555554in"}
->
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image9.png){width="12.354166666666666in"
-> height="8.790062335958005in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
->
-> Aqui fico les particions
->
-> Fico la ip estatica
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image8.png){width="5.386111111111111in"
-> height="3.4680555555555554in"}
->
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image11.png){width="12.354166666666666in"
-> height="8.021847112860893in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
->
-> Creo l'usuari oriol
->
-> Fico el color 24 i la resolucio 1280x1024
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image10.png){width="5.916666666666667in"
-> height="2.8541655730533684in"}
->
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image12.png){width="12.354166666666666in"
-> height="8.727350174978127in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
->
-> Selecciono Kubuntu Desktop
->
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image15.png){width="12.354166666666666in"
-> height="9.218591426071741in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
 
-+-----------------------------------+-----------------------------------+
-| d\.                               | > Guarda l'arxiu ks.cfg a         |
-|                                   | > l'escritori mateix              |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+Instal·la system-config-kickstart
 
-> Guardo l'arxiu ks.cfg a l'escritori
->
-> Li dono tots el permisos per a poder modificar-ho
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image13.png){width="5.041666666666667in"
-> height="0.5416666666666666in"}
->
-> e\. Obre la .iso alternate o server amb l'isomaster i posa a l'arrel
-> l'arxiu ks.cfg
+![Selecció_1026](https://github.com/omarine12/MP05/assets/113585932/223a6d68-05f8-45e0-adb9-a77ede8df236)
 
-![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image14.png){width="7.270833333333333in"
-height="2.25in"}
 
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image17.png){width="12.354166666666666in"
-> height="8.868451443569553in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
->
-> Agrego el ks.cfg
+Obre amb system-config-kickstart i configura els paràmetre que creguis necessaris
 
-+-----------------------------------+-----------------------------------+
-| f\.                               | > Amb l'isomaster extreu l'arxiu  |
-|                                   | > txt.cfg a l'escritori mateix, i |
-|                                   | > modifca'l per tal d'afegir una  |
-|                                   | > opció                           |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
 
-> més al menú. Copia la primera opció, caniva el nom i afegeix al final
-> ks=cdrom:/ks.cfg
->
-> Extrec el txt.cfg per a modificar-ho
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image16.png){width="4.323611111111111in"
-> height="3.2083333333333335in"}
->
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image19.png){width="12.354166666666666in"
-> height="10.420562117235345in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
->
-> g\. Guarda els canvis
->
-> He canivat el menu label i el quiet
+![Selecció_1028](https://github.com/omarine12/MP05/assets/113585932/ad4f64d6-acac-4c4d-8715-e0b8f798b100)
 
-+-----------------------------------+-----------------------------------+
-| h\.                               | > Posa aquets arxiu modificat     |
-|                                   | > dintre la iso, esborrant primer |
-|                                   | > l'antic                         |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
 
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image18.png){width="4.416666666666667in"
-> height="2.9375in"}
->
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image21.png){width="12.354166666666666in"
-> height="9.323110236220472in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
->
-> i\. Guarda la iso\
-> Guardo la iso amb el nom OriolDesates
+He modificat el idioma default a catala, el teclat a l’español i la hora
 
-+-----------------------------------+-----------------------------------+
-| j\.                               | > Prova que funcioni en una nova  |
-|                                   | > màquina virtual                 |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+![Selecció_1029](https://github.com/omarine12/MP05/assets/113585932/1c7f6444-c49f-4b10-9010-bedb9f2cd606)
 
-> 2\. Realitza la instal·lació desatesa amb el pressed d\'un SO Ubuntu.
-> El concepte és el mateix, generar un arxiu de resposta, però enlloc
-> del kickstart amb el pressed i desprès posar-lo dintre la iso.
->
-> a\. Cerca per internet un arxiu preseed.cfg i modifica'l\
-> b. Llavors cal que el posis dintre la iso i que modifiquis el txt.cfg
-> afegint una nova opció per a que l'agafi\
-> Extrec el cfg
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image20.png){width="4.6875in"
-> height="3.1569444444444446in"}
->
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image23.png){width="12.354166666666666in"
-> height="7.624674103237095in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
->
-> Li dono permisos per a modificar-ho
->
-> Canvio el append
->
-> Elimino el cfg antic i fico el nou modificat
->
-> ![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image22.png){width="5.833333333333333in"
-> height="4.030555555555556in"}
->
-> Administració de SistemesInformàtics en la Xarxa\
-> Desenvolupamentd'Aplicacions
-> Multiplataforma![](vertopal_11b8fa2ed02f47efad02c1c8049b0610/media/image24.png){width="12.354166666666666in"
-> height="5.821718066491688in"}
->
-> **M1** -- Implantació de SistemesOperatius\
-> **UF3** -- Implantació de ProgramariEspecífic
->
-> Guardo la nova iso amb el nom OriolDesatesa2
 
-+-----------------------------------+-----------------------------------+
-| c\.                               | > Prova la iso en una nova        |
-|                                   | > màquina virtual                 |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+Marco l’opcio utilitzar GRUP password i encriptar 
+
+![Selecció_1031](https://github.com/omarine12/MP05/assets/113585932/b120dd08-8e48-47aa-8cf1-689ca0f048f0)
+
+Aqui fico les particions
+
+![Selecció_1032](https://github.com/omarine12/MP05/assets/113585932/ef62d30f-b4c6-4fd2-9a49-afa724c4cceb)
+
+Fico la ip estatica
+
+![Selecció_1033](https://github.com/omarine12/MP05/assets/113585932/6aae4cca-4c58-428d-8968-69ce5a9c34e1)
+
+
+Creo l’usuari oriol
+
+![Selecció_1034](https://github.com/omarine12/MP05/assets/113585932/1ab6511c-2950-4482-a63c-3ad79aa28a68)
+
+Fico el color 24 i la resolucio 1280x1024
+
+![Selecció_1036](https://github.com/omarine12/MP05/assets/113585932/51e0f540-a4ec-4cbb-a1bf-4fb09f784734)
+
+Selecciono Kubuntu Desktop
+
+![Selecció_1037](https://github.com/omarine12/MP05/assets/113585932/1b2d1250-ae2c-4404-ad11-4f1cc8238a1c)
+
+Guarda l’arxiu ks.cfg a l’escritori mateix
+Guardo l’arxiu ks.cfg a l’escritori
+
+![Selecció_1038](https://github.com/omarine12/MP05/assets/113585932/2fb66f38-81ba-4a7e-8e8c-34626f340e82)
+
+Li dono tots el permisos per a poder modificar-ho
+
+![Selecció_1039](https://github.com/omarine12/MP05/assets/113585932/a95570b8-3d22-4837-8ffb-e748593d2bd3)
+
+Obre la .iso alternate o server amb l’isomaster i posa a l’arrel l’arxiu ks.cfg
+
+![Selecció_1040](https://github.com/omarine12/MP05/assets/113585932/b080efc6-bafb-4da4-9ce1-1a2b3ec13fa5)
+
+
+Agrego el ks.cfg
+
+![Selecció_1041](https://github.com/omarine12/MP05/assets/113585932/e9cbf476-64bd-4f5d-82b3-ac24819a15ba)
+
+
+Amb l’isomaster extreu l’arxiu txt.cfg a l’escritori mateix, i modifca’l per tal d’afegir una opció més al menú. Copia la primera opció, caniva el nom i afegeix al final ks=cdrom:/ks.cfg
+Extrec el txt.cfg per a modificar-ho
+
+![Selecció_1042](https://github.com/omarine12/MP05/assets/113585932/871d385f-9fe4-4976-ba85-8ce1ea52ba10)
+
+
+Guarda els canvis
+He canivat el menu label i el quiet
+
+![Selecció_1043](https://github.com/omarine12/MP05/assets/113585932/da20e22f-01bf-495d-a4c8-29bb56e28227)
+
+
+Posa aquets arxiu modificat dintre la iso, esborrant primer l’antic
+
+![image](https://github.com/omarine12/MP05/assets/113585932/b861aa62-81af-4db0-8158-21b74c526158)
+
+
+
+Guarda la iso
+Guardo la iso amb el nom OriolDesates
+
+![Selecció_1045](https://github.com/omarine12/MP05/assets/113585932/ccc59bfc-abd3-4e41-b0d6-30578219ba40)
+
+
+Prova que funcioni en una nova màquina virtual
+
+2.Realitza la instal·lació desatesa amb el pressed d'un SO Ubuntu. El concepte és el mateix, generar un arxiu de resposta, però enlloc del kickstart amb el pressed i desprès posar-lo dintre la iso.
+Cerca per internet un arxiu preseed.cfg i modifica’l
+Llavors cal que el posis dintre la iso i que modifiquis el txt.cfg afegint una nova opció per a que l’agafi
+Extrec el cfg
+
+![image](https://github.com/omarine12/MP05/assets/113585932/73733a96-be19-4d7f-84b3-1f14b1216548)
+
+Li dono permisos per a modificar-ho
+
+![Selecció_1049](https://github.com/omarine12/MP05/assets/113585932/5028e46a-6949-4dca-9398-9016286fe2a8)
+
+
+Modifico el append
+
+![Selecció_1050](https://github.com/omarine12/MP05/assets/113585932/0269bcfd-01fc-4262-afd7-08a32f445ac7)
+
+Aqui he tret tota la informació
+https://www.pugetsystems.com/labs/hpc/note-auto-install-ubuntu-with-custom-preseed-iso-1654/
+
+Elimino el cfg antic i fico el nou modificat
+
+![Selecció_1051](https://github.com/omarine12/MP05/assets/113585932/4ecf8e23-4616-4bcd-ba15-c9496227bd34)
+
+
+Guardo la nova iso amb el nom OriolDesatesa2
+
+Prova la iso en una nova màquina virtual
+
+![Selecció_1052](https://github.com/omarine12/MP05/assets/113585932/8caa367c-a5d8-47bd-a54a-9b8aa020fe5b)
+
