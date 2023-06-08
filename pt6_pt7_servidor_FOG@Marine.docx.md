@@ -6,6 +6,7 @@ Primer descarrego el fog desde la pàgina web
 ![Selecció_976](https://github.com/omarine12/MP05/assets/113585932/86a42610-ecfe-4734-b269-33d9c554b7b3)
 
 Despres descomprimeixo el paquet tar.gz
+
 ![Selecció_977](https://github.com/omarine12/MP05/assets/113585932/8e59bc74-b8bd-4750-8461-87d08f3cd7d1)
 
 Entro a la carpeta del fog i executo la instalacio
