@@ -1,0 +1,148 @@
+﻿Administració de SistemesInformàtics en la Xarxa
+
+Desenvolupamentd’Aplicacions Multiplataforma
+
+**M1** – Implantació de SistemesOperatius
+
+**UF3** – Implantació de ProgramariEspecífic
+
+
+## Servidor d’Imatges
+
+1. Instal·lar i configurar un servidor FOG
+
+Primer descarrego el fog desde la pàgina web
+
+
+Despres descomprimeixo el paquet tar.gz
+
+
+Entro a la carpeta del fog i executo la instalacio
+
+
+
+Aquest son les opcions i els parametres que he ficat a l’instalacio
+
+Per finalitzar l’instalacio, al navegador donarem clic al botó instalar
+
+Per entrar al fog tindre que utilitzar la ip de la maquina, aquestes son les credencials per a entrar
+
+Fico la ip al navegador i entro
+
+Aquest es el menu principal del fog
+
+Deshabiliitem el proces system-resolved
+
+
+Aturem el proces i borrem l’arxiu resolv.conf i el tornem a crear amb el nameserver 8.8.8.8
+
+Instal·lem el dnsmasq per a direccionar els clients al nostre FOG
+
+Fiquem els seguents parametres dins de l’arxiu /etc/dnsmasq/ltsp.conf
+
+- port=0
+- log-dhcp
+- tftp-root=/tftpboot
+- dhcp-no-override
+- dhcp-boot=undionly.kpxe,,192.168.204.226
+- pxe-prompt="Booting FOG Client", 1
+- dhcp-range=192.168.204.226,proxy
+
+
+Gurado els canvis i reinicio el dnsmasq
+
+
+1. Capturar des del client un Windows
+
+Creem una imatge desde el fog i iniciem la maquina desde la xarxa, desprès registrem el host
+
+Un cop registrada exportem la imatge
+
+A l’apartat de tasques basiques si tot ha funcionat correctament ens dira que la tasca s’ha completat correctament
+
+
+A **image Managemet** podrem veure la imatge clonada correctament
+
+
+
+1. Capturar des del client un Ubuntu
+
+Primer instal·lo 2 aplicacions per a fer les comprovacions un cop finalitzat (**discord i krita**)
+
+
+Primer creem una nova imatge, establim el **nom, la descripcio(opcional), sistema operatiu i la ruta de l’imatge**
+
+Entrem amb la xarxa i registrem el host
+
+
+Desde el **Host Management**, es pot veure com s’ha registrat correctament el host
+
+Dins de **Host general** canviarem el nom, enllaçem l’imatge que hem creat abans amb aquest host
+
+Desprès anem a **capture, basik task** i li donem a **task**
+
+
+Si la tasca ha funcionat be la podrem guardar
+
+A **Imatge Management** es pot veure la imatge clonada
+
+
+1. Instal·lar imatge Windows
+
+Creem una maquina virtual sense cap sistema operatiu i entrem per xarxa, despres seleccionem l’opcio **Deploy Image**
+
+Fiquem les **creedencials** del nostre fog
+
+Quan accedim podrem seleccionar,l’imatge de Windows 10
+
+Tenim que esperar a que es desplegui la imatge al client
+
+
+Un cop finalitzat podem encendre la maquina i comrpovar que la imatge s’ha establert correctament
+
+
+
+
+
+1. Instal·lar imatge Ubuntu
+
+Creo la maquina virtual **FOG Instalar Ubuntu** sense cap imatge i entro per xarxa, despres seleciono l’opcio deploy image
+
+Escric les credencials correctament
+
+Selecciono l’imatge d’ubuntu que he creat anteriorment
+
+
+Tenim que esperar a que es desplegui l’imatge
+
+Un cop descarregada es pot veure com els 2 programes que he instalat anteriorment estan a l’imatge instalada, i a la maquina **FOG Instalar Ubuntu**
+
+
+1. Llençar un paquet per a que s’instal·li als clients
+
+Anem a l’apartat de **snaping** i creem un nou complement, amb un **nom i la msi de google chrome**
+
+Desprès inicio un client windows amb xarxa, i selecciono l’opcio **Quick Registration and Inventory** per registtrar el client com a host
+
+
+Entro a editar host i selecciono la casella per veure snapings que poden ser afegits, selecciono google chrome
+
+Despres vaig a l’apartat de **host task i advanced**
+
+
+Es pot veure com s’ha creat correctament
+
+
+A l’apartat de **FOG CLIENT,** seleccionem l’opcio smart installer
+
+
+Quan li donem s’obrira una pestanya on tenim que ficar la **IP DEL SERVIDOR**
+
+Si funciona correctament ens saltara una notificacio dient que **s’esta instalant i que s’ha instalat correctament**
+
+
+
+El fog ens informa que hem de **reiniciar la maquina**
+
+
+I es pot veure com al reinciciar **s’ha instalat el chrome.**
