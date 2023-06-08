@@ -105,6 +105,18 @@ j.Prova que funcioni en una nova màquina virtual
 
 ![image](https://github.com/omarine12/MP05/assets/113585932/85199fad-88b1-4a5d-a0ff-8f47db9d16ad)
 
+![image](https://github.com/omarine12/MP05/assets/113585932/5d02acfe-9496-48b8-8a17-4a6e66e47731)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/67ea366a-8622-4697-9f68-50c4131d72a2)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/2065932d-cdaf-49fe-b25a-51afe5171952)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/8617e7a3-bc94-4649-a3bc-af5c7194761d)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/10095daa-8c85-4221-8c76-a2629212d8ba)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/6ef59b74-ae6a-4935-b625-5d218e933542)
+
 
 2.Realitza la instal·lació desatesa amb el pressed d'un SO Ubuntu. El concepte és el mateix, generar un arxiu de resposta, però enlloc del kickstart amb el pressed i desprès posar-lo dintre la iso.
 Cerca per internet un arxiu preseed.cfg i modifica’l
@@ -131,8 +143,17 @@ Elimino el cfg antic i fico el nou modificat
 
 
 Guardo la nova iso amb el nom OriolDesatesa2
-
-Prova la iso en una nova màquina virtual
-
 ![Selecció_1052](https://github.com/omarine12/MP05/assets/113585932/8caa367c-a5d8-47bd-a54a-9b8aa020fe5b)
+Prova la iso en una nova màquina virtual
+Mostro com s'instal·la automaticament
+![image](https://github.com/omarine12/MP05/assets/113585932/6829ac8a-26f8-424a-a377-a58a8a63d5d5)
 
+![image](https://github.com/omarine12/MP05/assets/113585932/21c41883-c44f-4d6b-a0eb-6618464ca373)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/63c3d0a6-58b7-4d26-a213-4094f3503eb6)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/09af2b65-f435-4383-a938-ff3bd7d994fb)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/69415d38-ebf3-428c-90c6-9ee3b75862ff)
+
+![image](https://github.com/omarine12/MP05/assets/113585932/0a956ae9-980b-4862-95cd-ab94cc630993)
