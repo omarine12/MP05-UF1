@@ -14,6 +14,8 @@ Instal·lo apt.mirror
 
 Comento els repositoris i afegeixo el de chrome
 
+![image](https://github.com/omarine12/MP05/assets/113585932/d4009695-e3b7-4458-82e2-e6db6504af6a)
+
 
 Executo la comando apt-mirror
 
