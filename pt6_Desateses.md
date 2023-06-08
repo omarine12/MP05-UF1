@@ -107,6 +107,7 @@ Aqui es pot veure com s'instala automaticament
 
 ![Selecció_1053](https://github.com/omarine12/MP05/assets/113585932/c7dac6a5-9f59-4ed6-afbd-9d2f0310f0c9)
 
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/85199fad-88b1-4a5d-a0ff-8f47db9d16ad)
 
 ![image](https://github.com/omarine12/MP05/assets/113585932/5d02acfe-9496-48b8-8a17-4a6e66e47731)
