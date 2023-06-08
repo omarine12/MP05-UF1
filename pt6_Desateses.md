@@ -96,12 +96,14 @@ h.Posa aquets arxiu modificat dintre la iso, esborrant primer l’antic
 i.Guarda la iso
 Guardo la iso amb el nom OriolDesates
 
+
 ![Selecció_1045](https://github.com/omarine12/MP05/assets/113585932/ccc59bfc-abd3-4e41-b0d6-30578219ba40)
 
 
 j.Prova que funcioni en una nova màquina virtual
 
 Aqui es pot veure com s'instala automaticament
+
 
 ![Selecció_1053](https://github.com/omarine12/MP05/assets/113585932/c7dac6a5-9f59-4ed6-afbd-9d2f0310f0c9)
 
