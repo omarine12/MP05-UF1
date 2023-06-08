@@ -39,9 +39,11 @@ Deshabiliitem el proces system-resolved
 
 
 Aturem el proces i borrem l’arxiu resolv.conf i el tornem a crear amb el nameserver 8.8.8.8
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/fc456d08-20e9-4148-b67d-f4ed37f1c432)
 
 Instal·lem el dnsmasq per a direccionar els clients al nostre FOG
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/a4754fce-3439-48d9-8f94-ef812c36d3f0)
 
 Fiquem els seguents parametres dins de l’arxiu /etc/dnsmasq/ltsp.conf
@@ -53,26 +55,32 @@ Fiquem els seguents parametres dins de l’arxiu /etc/dnsmasq/ltsp.conf
 - dhcp-boot=undionly.kpxe,,192.168.204.226
 - pxe-prompt="Booting FOG Client", 1
 - dhcp-range=192.168.204.226,proxy
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/add3ecc3-c56b-41ba-be17-ab2b1c1d7f1a)
 
 
 Gurado els canvis i reinicio el dnsmasq
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/5b3ba451-70f0-4369-84ce-ecfc3f6b0af3)
 
 
 ## 2. Capturar des del client un Windows
 
 Creem una imatge desde el fog i iniciem la maquina desde la xarxa, desprès registrem el host
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/7bc5e650-78a0-4f4d-9452-5ada6a265397)
 
 Un cop registrada exportem la imatge
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/9f2c4092-dbf4-440c-9609-a193968db03a)
 
 A l’apartat de tasques basiques si tot ha funcionat correctament ens dira que la tasca s’ha completat correctament
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/e2083195-08dc-4652-894a-c0aac4922f83)
 
 
 A **image Managemet** podrem veure la imatge clonada correctament
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/f91729f9-b5db-49fc-a17e-17bf11ad0581)
 
 
@@ -80,45 +88,57 @@ A **image Managemet** podrem veure la imatge clonada correctament
 ## 3. Capturar des del client un Ubuntu
 
 Primer instal·lo 2 aplicacions per a fer les comprovacions un cop finalitzat (**discord i krita**)
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/b6e06dc1-2b6d-420c-824c-1bdd5d2594fc)
 
 
 Primer creem una nova imatge, establim el **nom, la descripcio(opcional), sistema operatiu i la ruta de l’imatge**
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/eb3b1ffc-5e50-4e1d-94f8-e80b9c0a90ed)
 
 Entrem amb la xarxa i registrem el host
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/04773058-3cba-47ed-b0fe-9950be4e8f62)
 
 
 Desde el **Host Management**, es pot veure com s’ha registrat correctament el host
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/f42524bf-9631-4f04-ae57-955cd9e0d111)
 
 Dins de **Host general** canviarem el nom, enllaçem l’imatge que hem creat abans amb aquest host
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/e64e1bad-f962-41b4-bf40-f885c08619be)
 
 Desprès anem a **capture, basik task** i li donem a **task**
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/75cff8b3-0364-46bf-9225-fb3681b027a3)
 
 
 Si la tasca ha funcionat be la podrem guardar
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/d385fc85-43ab-4ddd-a3ab-fd281e990e45)
 
 A **Imatge Management** es pot veure la imatge clonada
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/c24f4a54-40c0-4af0-9fe7-dd5688b14ae8)
 
 
 ## 4. Instal·lar imatge Windows
 
 Creem una maquina virtual sense cap sistema operatiu i entrem per xarxa, despres seleccionem l’opcio **Deploy Image**
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/5cf72bd2-94d7-4d5b-918a-a60124a472bc)
 
 Fiquem les **creedencials** del nostre fog
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/41ab67f9-87d8-46ea-9011-e1575aaf337c)
 
 Quan accedim podrem seleccionar,l’imatge de Windows 10
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/6dafe4f1-eca6-4687-a1fe-45641dc34c8e)
 
 Tenim que esperar a que es desplegui la imatge al client
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/d7f04eae-17a5-42f6-910b-abe4f30ad7d3)
 
 
@@ -132,25 +152,31 @@ Un cop finalitzat podem encendre la maquina i comrpovar que la imatge s’ha est
 ## 5. Instal·lar imatge Ubuntu
 
 Creo la maquina virtual **FOG Instalar Ubuntu** sense cap imatge i entro per xarxa, despres seleciono l’opcio deploy image
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/f733837e-51e7-4671-9f95-eb5059b31350)
 
 Escric les credencials correctament
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/f03c47fa-02ab-415a-8e4d-6f89f125ce63)
 
 Selecciono l’imatge d’ubuntu que he creat anteriorment
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/53bef4c3-76a9-48e9-8dee-4c7ee04aee12)
 
 
 Tenim que esperar a que es desplegui l’imatge
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/09f77964-de7f-4b9e-ba0b-6c8e2bcb8106)
 
 Un cop descarregada es pot veure com els 2 programes que he instalat anteriorment estan a l’imatge instalada, i a la maquina **FOG Instalar Ubuntu**
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/bf9d7db1-cc14-4808-8dc9-0d646b676237)
 
 
 ## 6. Llençar un paquet per a que s’instal·li als clients
 
 Anem a l’apartat de **snaping** i creem un nou complement, amb un **nom i la msi de google chrome**
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/52edb2c8-312b-4284-9c75-948b70641de1)
 
 Desprès inicio un client windows amb xarxa, i selecciono l’opcio **Quick Registration and Inventory** per registtrar el client com a host
@@ -159,23 +185,32 @@ Desprès inicio un client windows amb xarxa, i selecciono l’opcio **Quick Regi
 Entro a editar host i selecciono la casella per veure snapings que poden ser afegits, selecciono google chrome
 
 Despres vaig a l’apartat de **host task i advanced**
+
 ![image](https://github.com/omarine12/MP05/assets/113585932/fe108f35-a2b9-44d8-ac1c-4ec24f2df749)
 
 
 Es pot veure com s’ha creat correctament
 
+![image](https://github.com/omarine12/MP05/assets/113585932/3c388010-ecf0-4f82-a999-eb69011df294)
+
 
 A l’apartat de **FOG CLIENT,** seleccionem l’opcio smart installer
 
+![image](https://github.com/omarine12/MP05/assets/113585932/d7456a2b-d308-4d13-803d-882f613e9739)
 
 Quan li donem s’obrira una pestanya on tenim que ficar la **IP DEL SERVIDOR**
 
+![image](https://github.com/omarine12/MP05/assets/113585932/1e778575-0017-465c-80b6-27c58bdf7f05)
+
 Si funciona correctament ens saltara una notificacio dient que **s’esta instalant i que s’ha instalat correctament**
 
+![image](https://github.com/omarine12/MP05/assets/113585932/267d2908-05d9-4b41-aa78-24e31c578776)
 
 
 El fog ens informa que hem de **reiniciar la maquina**
 
+![image](https://github.com/omarine12/MP05/assets/113585932/f88bb20c-4592-42d8-8581-74a9aaaeebba)
 
 I es pot veure com al reinciciar **s’ha instalat el chrome.**
+![image](https://github.com/omarine12/MP05/assets/113585932/4e3d6a29-9d80-49e8-b7d7-8911b835a41c)
 
